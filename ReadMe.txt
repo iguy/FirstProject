@@ -1,1 +1,1 @@
-Testing Github - this file will be updated later. 
+Beta verison of this project is experimental. 
